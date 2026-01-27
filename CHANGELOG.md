@@ -1,3 +1,6 @@
+# 0.8.7
+Fix performance issue in toUTF8 method
+
 # 0.8.6
 bumps js_android_runtime to set pagesize to comply with Google Play Store rule regarding the minimum page size of 16KB for libraries
 
